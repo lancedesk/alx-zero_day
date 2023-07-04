@@ -1,1 +1,1 @@
-My first readme
+Manually editing README.md from GitHub UI
